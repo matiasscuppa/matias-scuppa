@@ -78,6 +78,3 @@ Designing systems and tools that work reliably in harsh maritime environments.
 
 LinkedIn:  
 https://www.linkedin.com/in/matias-scuppa
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="matias-scuppa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/matias-scuppa?trk=profile-badge">Matias Scuppa</a></div>
-              
