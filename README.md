@@ -1,7 +1,7 @@
 # Matías Scuppa
 
 Marine & Embedded Systems Engineer  
-France 🇫🇷 | EU Citizen 🇮🇹
+France 🇫🇷 | EU Citizen 🇮🇹  
 
 ---
 
@@ -13,61 +13,64 @@ Currently working on advanced integrated bridge systems including Radar, AIS, VD
 
 Strong background in:
 
-- Marine electronics & onboard system integration
-- NMEA 0183 communication
-- RS-422 / RS-485 interfaces
-- PCB design using Altium Designer
-- SMT diagnostics and board-level repair
-- Embedded firmware development (ESP32, STM32, AVR)
+- Marine electronics & onboard system integration  
+- Field commissioning & onboard troubleshooting  
+- NMEA 0183 communication  
+- Differential bus diagnostics (RS-422 / RS-485)  
+- PCB design using Altium Designer  
+- SMT diagnostics and board-level repair  
+- Embedded firmware development (ESP32, STM32, AVR)  
 
-Passionate about robust hardware design, field diagnostics and building reliable embedded tools for marine environments.
+Passionate about robust hardware design, real-world diagnostics and building reliable embedded tools for demanding maritime environments.
 
 ---
 
 ## 🔧 Technical Stack
 
-### Hardware
-- PCB Design (Altium Designer)
-- Signal integrity & differential buses
-- Power electronics (low voltage systems)
-- SMT rework & diagnostics
-- Oscilloscope / Logic analyzer troubleshooting
+### Hardware & PCB
+- PCB Design (Altium Designer)  
+- Differential signaling & industrial communication buses  
+- Low-voltage power systems  
+- SMT rework & advanced diagnostics  
+- Oscilloscope & logic analyzer troubleshooting  
 
-### Embedded
-- ESP32 (WiFi + UDP + Web interface)
-- STM32 (HAL-based development)
-- ATmega / AVR
-- UART / I2C / SPI
-- OTA firmware update systems
+### Embedded Systems
+- ESP32 (WiFi, UDP, Web Interface, OTA)  
+- STM32 (HAL-based development)  
+- ATmega / AVR  
+- UART / I2C / SPI  
+- Firmware architecture for diagnostic tools  
 
-### Marine & Navigation
-- NMEA 0183
-- AIS systems
-- Radar systems
-- Integrated bridge environments
-- Field commissioning & diagnostics
+### Marine & Navigation Systems
+- NMEA 0183  
+- AIS systems  
+- Radar systems  
+- VDR systems  
+- Integrated bridge environments  
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Current Project
 
-### NMEA Link
-Portable NMEA 0183 Monitor & Generator  
+### NMEA Link  
+Portable NMEA 0183 Monitor & Generator for marine diagnostics.
+
+Features:
 - Auto baudrate detection  
 - OLED interface  
 - WiFi UDP broadcast  
 - RS-422 differential input  
 - Designed for onboard troubleshooting  
 
-Future expansion: professional diagnostic tool for marine technicians.
+Focused on creating reliable field tools for marine technicians and system integrators.
 
 ---
 
 ## 🌍 Professional Focus
 
-Bridging hardware engineering and real-world marine operations.
+Bridging hardware engineering with real-world marine operations.
 
-Designing tools and systems that work reliably in harsh maritime environments.
+Designing systems and tools that work reliably in harsh maritime environments.
 
 ---
 
@@ -75,4 +78,3 @@ Designing tools and systems that work reliably in harsh maritime environments.
 
 LinkedIn:  
 https://www.linkedin.com/in/matias-scuppa
-
