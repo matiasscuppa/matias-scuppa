@@ -9,7 +9,7 @@ France 🇫🇷 | EU Citizen 🇮🇹
 
 Electronic Engineer with 10+ years of experience in marine electronics, naval navigation systems and embedded hardware development.
 
-Currently working on advanced bridge systems including Radar, AIS, VDR and integrated navigation platforms.
+Currently working on advanced integrated bridge systems including Radar, AIS, VDR and navigation control platforms in operational marine environments.
 
 Strong background in:
 
