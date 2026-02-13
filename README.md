@@ -1,7 +1,7 @@
 # Matías Scuppa
 
 Marine & Embedded Systems Engineer  
-France 🇫🇷 | EU Citizen 🇮🇹  
+France 🇫🇷 | EU Citizen 🇮🇹
 
 ---
 
