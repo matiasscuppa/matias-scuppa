@@ -1,80 +1,27 @@
-# Matías Scuppa
+# Matias Scuppa
 
-Marine & Embedded Systems Engineer  
-France 🇫🇷 | EU Citizen 🇮🇹  
-
----
-
-## ⚓ About Me
-
-Electronic Engineer with 10+ years of experience in marine electronics, naval navigation systems and embedded hardware development.
-
-Currently working on advanced integrated bridge systems including Radar, AIS, VDR and navigation control platforms in operational marine environments.
-
-Strong background in:
-
-- Marine electronics & onboard system integration  
-- Field commissioning & onboard troubleshooting  
-- NMEA 0183 communication  
-- Differential bus diagnostics (RS-422 / RS-485)  
-- PCB design using Altium Designer  
-- SMT diagnostics and board-level repair  
-- Embedded firmware development (ESP32, STM32, AVR)  
-
-Passionate about robust hardware design, real-world diagnostics and building reliable embedded tools for demanding maritime environments.
+Electronics Engineer | Marine & Embedded Systems  
+Founder of Loxodrome Tech  
 
 ---
 
-## 🔧 Technical Stack
+## 🚀 Founder – Loxodrome Tech
 
-### Hardware & PCB
-- PCB Design (Altium Designer)  
-- Differential signaling & industrial communication buses  
-- Low-voltage power systems  
-- SMT rework & advanced diagnostics  
-- Oscilloscope & logic analyzer troubleshooting  
+Creator of **NMEA Link**, a portable NMEA 0183 Monitor & Generator for marine diagnostics and onboard troubleshooting.
 
-### Embedded Systems
-- ESP32 (WiFi, UDP, Web Interface, OTA)  
-- STM32 (HAL-based development)  
-- ATmega / AVR  
-- UART / I2C / SPI  
-- Firmware architecture for diagnostic tools  
-
-### Marine & Navigation Systems
-- NMEA 0183  
-- AIS systems  
-- Radar systems  
-- VDR systems  
-- Integrated bridge environments  
+🔗 Organization: https://github.com/loxodrome-tech  
+🔗 Product: https://github.com/loxodrome-tech/nmea-link  
 
 ---
 
-## 🚀 Current Project
+## 🔧 Core Expertise
 
-### NMEA Link  
-Portable NMEA 0183 Monitor & Generator for marine diagnostics.
-
-Features:
-- Auto baudrate detection  
-- OLED interface  
-- WiFi UDP broadcast  
-- RS-422 differential input  
-- Designed for onboard troubleshooting  
-
-Focused on creating reliable field tools for marine technicians and system integrators.
+- Embedded Systems (ESP32 / STM32)
+- Marine Navigation Electronics
+- PCB Design & SMT
+- NMEA 0183 & AIS Diagnostics
+- Field Engineering Solutions
 
 ---
 
-## 🌍 Professional Focus
-
-Bridging hardware engineering with real-world marine operations.
-
-Designing systems and tools that work reliably in harsh maritime environments.
-
----
-
-## 📫 Contact
-
-LinkedIn:  
-https://www.linkedin.com/in/matias-scuppa
+📍 Based in France
