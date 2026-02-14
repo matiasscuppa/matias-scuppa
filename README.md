@@ -1,27 +1,34 @@
 # Matias Scuppa
 
-Electronics Engineer | Marine & Embedded Systems  
-Founder of Loxodrome Tech  
+Electronics Engineer  
+Marine & Embedded Systems  
+
+Founder of **Loxodrome Tech**
 
 ---
 
-## 🚀 Founder – Loxodrome Tech
+## Current Focus
 
-Creator of **NMEA Link**, a portable NMEA 0183 Monitor & Generator for marine diagnostics and onboard troubleshooting.
+Leading the development of **NMEA Link**, a portable NMEA 0183 diagnostic and signal generation platform for marine environments.
 
 🔗 Organization: https://github.com/loxodrome-tech  
 🔗 Product: https://github.com/loxodrome-tech/nmea-link  
 
 ---
 
-## 🔧 Core Expertise
+## Engineering Scope
 
-- Embedded Systems (ESP32 / STM32)
+- Embedded Systems Architecture (ESP32 / STM32)
+- Hardware & Firmware Co-Design
+- PCB Design (SMT)
 - Marine Navigation Electronics
-- PCB Design & SMT
-- NMEA 0183 & AIS Diagnostics
-- Field Engineering Solutions
+- NMEA 0183 / AIS Systems
+- Field Diagnostics Tools
 
 ---
+
+## Philosophy
+
+Design robust, field-ready systems built for real-world technical environments.
 
 📍 Based in France
