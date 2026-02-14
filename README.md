@@ -16,7 +16,7 @@ Designing and leading the development of **NMEA Link**, a portable NMEA 0183 Mon
 
 ## 🔧 Engineering Domain
 
-- Embedded Systems Architecture (ESP32 / STM32)
+- Embedded Systems Architecture 
 - Hardware & Firmware Co-Design
 - PCB Design (SMT)
 - Marine Navigation Electronics
